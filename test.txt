@@ -1,0 +1,12 @@
+
+
+get urls from xml-sitemap
+
+folderstructure:
+- a11y/sitename/
+- a11y/sitename/10-10-20/
+- a11y/sitename/10-10-20/url.html
+- a11y/sitename/10-10-20/index.html (create index)
+- a11y/sitename/index.html (create index)
+
+

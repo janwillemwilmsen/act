@@ -1,0 +1,32 @@
+[
+  {
+    "meta": {
+      "outputFolder": "./public/a11y/snelste-nl/2023-08-07-22",
+      "domainname": "snelste.nl",
+      "timeStamp": "2023-08-07-22",
+      "totalUrls": 3,
+      "totalViolationsCount": 30,
+      "totalPassedItemsCount": 425,
+      "totalIncompleteCount": 0,
+      "totalElementsCount": 455,
+      "averageElementsPerPage": 151.66666666666666,
+      "averageErrorPerPage": 10,
+      "errorPercentage": 6.593406593406594
+    }
+  },
+  {
+    "meta": {
+      "outputFolder": "./public/a11y/snelste-nl/2023-08-07-22",
+      "domainname": "snelste.nl",
+      "timeStamp": "2023-08-07-22",
+      "totalUrls": 3,
+      "totalViolationsCount": 30,
+      "totalPassedItemsCount": 425,
+      "totalIncompleteCount": 0,
+      "totalElementsCount": 455,
+      "averageElementsPerPage": 151.66666666666666,
+      "averageErrorPerPage": 10,
+      "errorPercentage": 6.593406593406594
+    }
+  }
+]
